@@ -1,0 +1,27 @@
+{
+  "name": "Card",
+  "symbol" : "SLT",
+  "description": "Slate Genesis Curator Card - slatelabs.xyz",
+  "image" : "original.png",
+  "seller_fee_basis_points" : 500,
+  "properties" : {
+    "category" : "image",
+    "creators" : [
+      {
+        "address" : "72drCpX3AEJvBqfMVyc1LwUPLJ6YT9jV6nnH2H3LNBUu",
+	      "share" : 100
+      }
+    ]
+  },
+  "attributes" : [
+    {
+      "trait_type" : "Curator Name",
+      "value"      : "blank"
+    },
+    {
+      "trait_type" : "Curator Type",
+      "value"      : "Genesis"
+    }
+  ]
+}
+
