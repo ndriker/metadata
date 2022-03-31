@@ -1,0 +1,23 @@
+{
+    "price": 0.001,
+    "number": 3000,
+    "gatekeeper": null,
+    "solTreasuryAccount": "72drCpX3AEJvBqfMVyc1LwUPLJ6YT9jV6nnH2H3LNBUu",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "1 Mar 2021 17:00:00 GMT",
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": {
+        "name" : "Blank Curator Card",
+        "uri"  : "https://raw.githubusercontent.com/ndriker/metadata/master/metadata.json",
+        "hash" : "hashbrowns"       
+    },
+    "storage": "nft-storage",
+    "ipfsInfuraProjectId": null,
+    "ipfsInfuraSecret": null,
+    "awsS3Bucket": null,
+    "noRetainAuthority": false,
+    "nftStorageKey" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDZlNzFEMEY5Zjk3YTA0NGUxQWQ3NDczYmI4RUI5MTA3NjZjMjBjNjciLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY0NTk4NDQ0Mzk1MCwibmFtZSI6InNsYXRlIn0.GqF3lW2ZhSBXI-vTbCeKjrgK4LzzCsVJWR_1OGdJYDQ",
+    "noMutable": false
+}
