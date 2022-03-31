@@ -2,7 +2,7 @@
   "name": "Card",
   "symbol" : "SLT",
   "description": "Slate Genesis Curator Card - slatelabs.xyz",
-  "image" : "original.png",
+  "image" : "https://bafybeibgm6eczer65fz5ewtvtdu5ajm6us4i22nt2ojtnpqnylw3zpuhpy.ipfs.dweb.link?ext=png",
   "seller_fee_basis_points" : 500,
   "properties" : {
     "category" : "image",
